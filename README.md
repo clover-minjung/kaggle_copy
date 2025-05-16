@@ -15,3 +15,10 @@
 * [스터디 - 필사 및 정리](https://minjung405.tistory.com/98)
 * [Regression of Used Car Prices 대회 바로가기](https://www.kaggle.com/competitions/playground-series-s4e9)
 <br>
+
+**3. Enefit - Predict Energy Behavior of Prosumers**
+* 에스토니아 에너지 고객의 생산 및 소비 전력량 예측하기
+* [스터디 - 데이터 분석 및 정리](https://minjung405.tistory.com/99)
+* [스터디 - 필사 및 정리](https://minjung405.tistory.com/100)
+* [Enefit - Predict Energy Behavior of Prosumers 대회 바로가기](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)
+<br>
