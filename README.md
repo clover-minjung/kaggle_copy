@@ -29,3 +29,8 @@
 * [스터디 - 필사 및 정리](https://minjung405.tistory.com/104)
 * [ICR - Identifying Age-Related Conditions 대회 바로가기](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
 <br>
+
+**5. Home Credit - Credit Risk Model Stability**
+* [Home Credit - Credit Risk Model Stability 대회 바로가기](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability)
+<br>
+
