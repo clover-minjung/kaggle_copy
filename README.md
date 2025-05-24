@@ -26,11 +26,13 @@
 **4. ICR - Identifying Age-Related Conditions**
 * 연령 관련 질환 진단 여부 예측하기
 * [스터디 - 데이터 분석 및 정리](https://minjung405.tistory.com/103)
-* [스터디 - 필사 및 정리](https://minjung405.tistory.com/104)
+* [스터디 - 필사 및 정리](https://minjung405.tistory.com/105)
 * [ICR - Identifying Age-Related Conditions 대회 바로가기](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
 <br>
 
 **5. Home Credit - Credit Risk Model Stability**
+* [스터디 - 데이터 분석 및 정리](https://minjung405.tistory.com/107)
+* [스터디 - 필사 및 정리](https://minjung405.tistory.com/109)
 * [Home Credit - Credit Risk Model Stability 대회 바로가기](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability)
 <br>
 
