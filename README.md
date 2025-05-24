@@ -36,3 +36,8 @@
 * [Home Credit - Credit Risk Model Stability 대회 바로가기](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability)
 <br>
 
+**6. H&M Personalized Fashion Recommendations**
+* [스터디 - 데이터 분석 및 정리](https://minjung405.tistory.com/108)
+* [스터디 - 필사 및 정리](https://minjung405.tistory.com/110)
+* [H&M Personalized Fashion Recommendations 대회 바로가기](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)
+<br>
