@@ -41,3 +41,7 @@
 * [스터디 - 필사 및 정리](https://minjung405.tistory.com/110)
 * [H&M Personalized Fashion Recommendations 대회 바로가기](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)
 <br>
+
+**7. LMSYS - Chatbot Arena Human Preference Predictions**
+* [LMSYS - Chatbot Arena Human Preference Predictions 대회 바로가기](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
+<br>
