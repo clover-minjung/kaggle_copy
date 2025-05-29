@@ -43,5 +43,7 @@
 <br>
 
 **7. LMSYS - Chatbot Arena Human Preference Predictions**
+* [스터디 - 데이터 분석 및 정리](https://minjung405.tistory.com/113)
+* [스터디 - 필사 및 정리](https://minjung405.tistory.com/114)
 * [LMSYS - Chatbot Arena Human Preference Predictions 대회 바로가기](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
 <br>
