@@ -47,3 +47,9 @@
 * [스터디 - 필사 및 정리](https://minjung405.tistory.com/114)
 * [LMSYS - Chatbot Arena Human Preference Predictions 대회 바로가기](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
 <br>
+
+**8. Feedback Prize - English Language Learning**
+* [스터디 - 데이터 분석 및 정리](https://minjung405.tistory.com/115)
+* [스터디 - 필사 및 정리](https://minjung405.tistory.com/116)
+* [Feedback Prize - English Language Learning 대회 바로가기](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)
+<br>
